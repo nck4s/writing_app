@@ -1,0 +1,29 @@
+# OS / Editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python / Django
+backend/.venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/db.sqlite3
+
+# Node / React / Expo
+web/node_modules/
+web/dist/
+web/.vite/
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+
+# Logs
+*.log
+
+# Env files (add real values per environment)
+.env
+backend/.env
+web/.env
+mobile/.env
+

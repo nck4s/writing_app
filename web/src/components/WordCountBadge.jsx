@@ -5,3 +5,4 @@ const WordCountBadge = ({ count = 0 }) => {
 
 export default WordCountBadge
 
+

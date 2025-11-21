@@ -42,3 +42,4 @@ const DocumentColumn = ({ documents, selectedDocumentId, onSelectDocument, curre
 
 export default DocumentColumn
 
+

@@ -15,3 +15,4 @@ const EditorArea = ({ value, onChange }) => {
 
 export default EditorArea
 
+

@@ -20,3 +20,4 @@ const FolderColumn = ({ folders, selectedFolderId, onSelectFolder }) => {
 
 export default FolderColumn
 
+

@@ -19,3 +19,4 @@ const EditorTopBar = ({ title, onTitleChange, wordCount, saveStatus }) => {
 
 export default EditorTopBar
 
+
